@@ -83,12 +83,9 @@ button.cancel {
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
+  font-size: 18px;
+  font-weight: 700;
   margin-bottom: 10px;
-}
-
-h1 {
-  font-size: 20px;
-  margin: 0px;
 }
 
 .icon {
